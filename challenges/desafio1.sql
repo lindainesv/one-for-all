@@ -106,14 +106,14 @@ VALUES
 INSERT INTO SpotifyClone.cancoes (id_cancao, nome_cancoes, duracao_segundos, id_album)
 VALUES
   (NULL, 'BREAK MY SOUL', 279, 1),
-  (NULL, 'VIRGO'S GROOVE', 369, 1),
+  (NULL, "VIRGOS GROOVE", 369, 1),
   (NULL, 'ALIEN SUPERSTAR', 116, 1),
-  (NULL, 'Don't Stop Me Now', 203, 2),
+  (NULL, "Don't Stop Me Now", 203, 2),
   (NULL, 'Under Pressure', 152, 3),
   (NULL, 'Como Nossos Pais', 105, 4),
   (NULL, 'O Medo de Amar é o Medo de Ser Livre', 207, 5),
   (NULL, 'Samba em Paris', 267, 6),
-  (NULL, 'The Bard's Song', 244, 7),
+  (NULL, "The Bard's Song", 244, 7),
   (NULL, 'Feeling Good', 100, 8);
 
 INSERT INTO SpotifyClone.historico (id_usuario, id_cancao, data_reproducao)
